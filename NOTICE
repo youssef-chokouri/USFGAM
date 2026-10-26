@@ -1,0 +1,13 @@
+USFGAM Chat and Stories patch
+
+Targets Instagram 452.1.0.53.64, version code 385811006 (ARM64).
+Not affiliated with Meta, Instagram, or the Morphe project.
+
+The implementation was informed by the public Piko patch sources:
+https://github.com/crimera/piko (GPL-3.0).
+In particular, Piko documents the native navigation provider, Reel ViewPager2
+anchor, and Tigon request interception technique used here.
+Piko copyright and additional notices are available in upstream-piko/NOTICE.
+
+This standalone bundle contains no Instagram APK or proprietary application code.
+Source code is provided in this workspace under the GNU GPL version 3.

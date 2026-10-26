@@ -1,0 +1,8 @@
+.tools/
+upstream-piko/
+build/
+dist/
+*.apk
+*.apkm
+*.keystore
+*.log
